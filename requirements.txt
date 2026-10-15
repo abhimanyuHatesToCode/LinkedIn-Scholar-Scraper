@@ -1,0 +1,18 @@
+# Core browser automation
+patchright>=1.49.0
+
+# AI / LLM
+openai>=1.30.0
+
+# Web framework
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# Validation
+pydantic>=2.7.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Date parsing — needed by activity_scraper for relativedelta
+python-dateutil>=2.9.0

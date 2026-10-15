@@ -1,0 +1,19 @@
+# Secrets
+.env
+chrome_profile/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Data output
+data/
+*.json
+
+# IDE
+.vscode/
+.idea/
