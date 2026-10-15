@@ -475,5 +475,6 @@ linkedin_faculty_scraper/
   .env
   chrome_profile/
   ```
-#   L i n k e d I n - S c h o l a r - S c r a p e r  
- 
+#   L i n k e d I n - S c h o l a r - S c r a p e r 
+ 
+ 
